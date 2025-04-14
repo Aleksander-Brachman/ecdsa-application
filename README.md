@@ -1,6 +1,6 @@
 # ecdsa-application
 
-**Niniejsza aplikacja implementuje algorytm podpisu cyfrowego oparty na kryptografii krzywych eliptycznych - Eliptic Curve Digital Signature Algorithm (ECDSA).**
+**Niniejsza aplikacja implementuje algorytm podpisu cyfrowego oparty na kryptografii krzywych eliptycznych - Eliptic Curve Digital Signature Algorithm (ECDSA). Autorami aplikacji są studenci AGH: Aleksander Brachman, Kamil Maciaszek oraz Krzysztof Skociński.**
 
 W ramach aplikacji zaprogramowano różne operacje matematyczne, będące podstawą działania ECDSA, a które, złożone w całość, umożliwiają użytkownikowi aplikacji podpisanie
 wpisanej przez siebie wiadomości, z wykorzystaniem wybranej krzywej eliptycznej. Dodatkową funkcjonalnością aplikacji jest możliwość weryfikacji prawidłowości wygenerowanego 
